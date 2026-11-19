@@ -26,6 +26,8 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://conventionalcomments.org - Comments that are easy to grok and grep
 - https://nomeatproxy.com - Don't just relay AI output without thinking
 
+- https://bestdaily.games/collections/coffee-break-games/ - What daily puzzle can I play during a short coffee break?
+
 ## Criteria
 
 The website could be used as the answer to the question alone, without any explanations (Since they will be on the website itself.) The website should serve only one purpose.
